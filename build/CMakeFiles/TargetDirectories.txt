@@ -1,0 +1,3 @@
+C:/Users/ypar/source/repos/bad-pixel-detection/build/CMakeFiles/bad-pixel-detection.dir
+C:/Users/ypar/source/repos/bad-pixel-detection/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/ypar/source/repos/bad-pixel-detection/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,28 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Compiler/MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Platform/WindowsPaths.cmake
+C:/Users/ypar/source/repos/bad-pixel-detection/CMakeLists.txt
+C:/Users/ypar/source/repos/bad-pixel-detection/build/CMakeFiles/3.26.3/CMakeCXXCompiler.cmake
+C:/Users/ypar/source/repos/bad-pixel-detection/build/CMakeFiles/3.26.3/CMakeRCCompiler.cmake
+C:/Users/ypar/source/repos/bad-pixel-detection/build/CMakeFiles/3.26.3/CMakeSystem.cmake
+C:/Users/ypar/source/repos/bad-pixel-detection/lib/opencv/OpenCVConfig-version.cmake
+C:/Users/ypar/source/repos/bad-pixel-detection/lib/opencv/OpenCVConfig.cmake
+C:/Users/ypar/source/repos/bad-pixel-detection/lib/opencv/x64/vc16/lib/OpenCVConfig.cmake
+C:/Users/ypar/source/repos/bad-pixel-detection/lib/opencv/x64/vc16/lib/OpenCVModules-debug.cmake
+C:/Users/ypar/source/repos/bad-pixel-detection/lib/opencv/x64/vc16/lib/OpenCVModules-release.cmake
+C:/Users/ypar/source/repos/bad-pixel-detection/lib/opencv/x64/vc16/lib/OpenCVModules.cmake
